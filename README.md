@@ -127,5 +127,5 @@ server.close()
 <img width="1865" height="980" alt="Screenshot cn1" src="https://github.com/user-attachments/assets/87cd17aa-e540-4bc5-be0b-20040eaf366c" />
 <img width="1866" height="967" alt="Screenshot cn2" src="https://github.com/user-attachments/assets/8a2b307b-8ec3-4914-b824-da06e8b29d69" />
 
-Thus the study on Client Server Chat Applications has been performed
+Thus the study on Client Server Chat Applications has been performed.
 
